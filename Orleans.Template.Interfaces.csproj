@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Company>Tom Nelson</Company>
+    <Product>Orleans POC</Product>
   </PropertyGroup>
 
   <ItemGroup>
